@@ -1,7 +1,7 @@
 
 # AI-Guided_Airport_Assistant_for_Optimal_Pathfinding
 
-<img src="" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/94947162/230143147-8c1793a8-d939-463d-af43-8df378a91bc0.png" width="250" height="300">
 
 
 ### Purpose statement:
@@ -22,6 +22,6 @@ The DQN approach involves training a deep neural network to estimate Q values fo
 
 The Bellman equation remains the foundation of Deep Q Learning, but with the use of neural networks, it becomes possible to estimate Q values and find the optimal Q function efficiently, even in large state spaces. In summary, Deep Q Learning offers a powerful and efficient approach to solving complex problems, which can be achieved by combining the Bellman equation with deep neural networks to estimate Q values and approximate the optimal Q function.
 
-### Carie Insights: 
+### CariE Insights: 
 
 Multiple KPI and metrics will be tracked to see the progress and launch efficiency on single Tableau dashboard for our stakeholders. Which includes, Launch Satsifaction trend, Customer satisfaction trend, employee engagement, employee training and proficiency, Key business values, Phase we are in. Carie Bots health and availabilty.
