@@ -1,6 +1,9 @@
 
 # AI-Guided_Airport_Assistant_for_Optimal_Pathfinding
 
+<img src="" width="200" height="200">
+
+
 ### Purpose statement:
 
 After Covid when travel resumed last year, Pearson was declared 2nd worst airport in the world and this year its declared as the worst. In this type of economic recession, airport authority can't just go on hiring spree, they need a change and they need to automate and digitalize things around us. This is gonna come with its challenges but it would be the right step in future. 
@@ -10,6 +13,8 @@ After Covid when travel resumed last year, Pearson was declared 2nd worst airpor
 Introducing Carie Bot that was designed as AI guided Airport Assistant for Optimal Pathfinding. It will help customers move around in the airport quickly and efficiently.
 
 ### Model: DQN
+ 
+ ![image](https://user-images.githubusercontent.com/94947162/229947495-b55dd216-e417-4771-b043-289623bf2224.png)
 
 Deep Q Learning is a popular approach for solving complex problems in larger state spaces, where traditional Q-Learning algorithms may not perform optimally due to the extensive computation required to traverse all states and update Q values iteratively. As such, the use of function approximation techniques can help overcome this limitation by estimating the optimal Q function. In particular, Deep Q Networks (DQNs) leverage the power of deep neural networks to approximate Q values for each state-action pair in a given environment, with the goal of approximating the optimal Q function.
 
